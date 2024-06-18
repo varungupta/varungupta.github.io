@@ -1,2 +1,1 @@
-# varungupta.github.io
-Profile Page
+# Profile Page
